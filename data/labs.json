@@ -1,58 +1,58 @@
 [
   {
     "title": "AI Lab",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "AI-related networking or automation lab.",
-    "file": "/labs/AI Lab.docx",
-    "thumb": "/assets/thumbs/ai-lab.jpg",
+    "file": "/CCNP-Labs/labs/AI Lab.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/ai-lab.jpg",
     "tags": ["AI", "Networking"]
   },
   {
     "title": "AWS Lab Report 1-3",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "AWS Labs covering topics 1 through 3.",
-    "file": "/labs/AWS Lab Report 1-3.docx",
-    "thumb": "/assets/thumbs/aws1.jpg",
+    "file": "/CCNP-Labs/labs/AWS Lab Report 1-3.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/aws1.jpg",
     "tags": ["AWS", "Cloud"]
   },
   {
     "title": "AWS Lab Report 4-6",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "AWS Labs covering topics 4 through 6.",
-    "file": "/labs/AWS Lab Report 4-6.docx",
-    "thumb": "/assets/thumbs/aws2.jpg",
+    "file": "/CCNP-Labs/labs/AWS Lab Report 4-6.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/aws2.jpg",
     "tags": ["AWS", "Cloud"]
   },
   {
     "title": "BGP Lab Documentation",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "BGP configuration and documentation lab.",
-    "file": "/labs/BGP Lab Documentation.docx",
-    "thumb": "/assets/thumbs/bgp.jpg",
+    "file": "/CCNP-Labs/labs/BGP Lab Documentation.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/bgp.jpg",
     "tags": ["BGP", "Routing"]
   },
   {
     "title": "Layer 2 Attacks Lab",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "Layer 2 security attacks and mitigation.",
-    "file": "/labs/Layer 2 Attacks Lab.docx",
-    "thumb": "/assets/thumbs/layer2.jpg",
+    "file": "/CCNP-Labs/labs/Layer 2 Attacks Lab.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/layer2.jpg",
     "tags": ["Security", "Layer 2"]
   },
   {
     "title": "OSPF Lab",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "OSPF configuration and troubleshooting.",
-    "file": "/labs/OSPF Lab.docx",
-    "thumb": "/assets/thumbs/ospf.jpg",
+    "file": "/CCNP-Labs/labs/OSPF Lab.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/ospf.jpg",
     "tags": ["OSPF", "Routing"]
   },
   {
     "title": "Windows Installation Lab",
-    "author": "Gio Hua",
+    "author": "Your Name",
     "description": "Windows server or client installation lab.",
-    "file": "/labs/Windows Installation Lab.docx",
-    "thumb": "/assets/thumbs/windows.jpg",
+    "file": "/CCNP-Labs/labs/Windows Installation Lab.docx",
+    "thumb": "/CCNP-Labs/assets/thumbs/windows.jpg",
     "tags": ["Windows", "Server"]
   }
 ]
