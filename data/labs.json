@@ -1,7 +1,7 @@
-[
+s[
   {
     "title": "AI Lab",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "AI-related networking or automation lab.",
     "file": "/CCNP-Labs/labs/AI Lab.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/ai-lab.jpg",
@@ -9,7 +9,7 @@
   },
   {
     "title": "AWS Lab Report 1-3",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "AWS Labs covering topics 1 through 3.",
     "file": "/CCNP-Labs/labs/AWS Lab Report 1-3.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/aws1.jpg",
@@ -17,7 +17,7 @@
   },
   {
     "title": "AWS Lab Report 4-6",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "AWS Labs covering topics 4 through 6.",
     "file": "/CCNP-Labs/labs/AWS Lab Report 4-6.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/aws2.jpg",
@@ -25,7 +25,7 @@
   },
   {
     "title": "BGP Lab Documentation",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "BGP configuration and documentation lab.",
     "file": "/CCNP-Labs/labs/BGP Lab Documentation.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/bgp.jpg",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Layer 2 Attacks Lab",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "Layer 2 security attacks and mitigation.",
     "file": "/CCNP-Labs/labs/Layer 2 Attacks Lab.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/layer2.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "title": "OSPF Lab",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "OSPF configuration and troubleshooting.",
     "file": "/CCNP-Labs/labs/OSPF Lab.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/ospf.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Windows Installation Lab",
-    "author": "Your Name",
+    "author": "Gio Hua",
     "description": "Windows server or client installation lab.",
     "file": "/CCNP-Labs/labs/Windows Installation Lab.docx",
     "thumb": "/CCNP-Labs/assets/thumbs/windows.jpg",
